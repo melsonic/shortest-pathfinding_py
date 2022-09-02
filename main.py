@@ -2,7 +2,6 @@
 # version: 1.0.0
 # shortest pathfinding algorithm
 # startNode(0, 0) -> endNode(H-1, W-1)
-import numpy
 
 import sys
 import read
